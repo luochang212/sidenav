@@ -4,7 +4,7 @@
 
 ## 效果演示
 
-[Demo](https://luochang212.github.io/demo/sidenav/)
+- [Demo](https://luochang212.github.io/demo/sidenav/)
 
 ## 特性
 

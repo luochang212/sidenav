@@ -6,7 +6,7 @@ A hidden sidebar plug-in. Allow you to store your favourite website on it as an 
 
 ## Example
 
-[Demo](https://luochang212.github.io/demo/sidenav/)
+- [Demo](https://luochang212.github.io/demo/sidenav/)
 
 ## Feature
 
