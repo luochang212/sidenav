@@ -18,6 +18,10 @@ A hidden sidebar plug-in. Allow you to store your favourite website on it as an 
 
 Replace `&#9776; open` below with the element of your website.
 
-```
+```html
 <a href="#" class="load-iframe" onclick="openNav()" style="font-size:30px;cursor:pointer">&#9776; open</a>
 ```
+
+## Presentation
+
+![presentation](./img/presentation.gif)

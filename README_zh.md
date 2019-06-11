@@ -2,7 +2,7 @@
 
 一个可折叠的侧边栏插件。可以把自己常用的网页，以iframe的形式收纳在侧边栏里。而且，本插件还优化了网络性能，即使加载多个iframe，也不会影响网页的加载速度。
 
-## 效果演示
+## 示例
 
 - [Demo](https://luochang212.github.io/demo/sidenav/)
 
@@ -16,6 +16,11 @@
 
 将下面的`&#9776; open`替换为你网页中的元素
 
-```
+```html
 <a href="#" class="load-iframe" onclick="openNav()" style="font-size:30px;cursor:pointer">&#9776; open</a>
 ```
+
+## 效果演示
+
+![presentation](./img/presentation.gif)
+
